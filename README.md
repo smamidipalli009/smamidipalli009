@@ -1,46 +1,55 @@
-<h1 align="center">Hi, I'm Siva Mamidipalli 👋</h1>
-<h3 align="center">Senior DevOps | SRE | Platform Engineer — building toward AIOps & AI Infrastructure</h3>
-
 <p align="center">
-  <a href="mailto:mamidipalli.si@northeastern.edu"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/siva-mamidipalli" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=e52521&height=180&section=header&text=Siva%20Mamidipalli&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20DevOps%20%7C%20SRE%20%7C%20Platform%20Engineer&descAlignY=58&descSize=18" />
 </p>
 
----
+<h3 align="center">🍄 Player 1 — Level 11+ (Years) &nbsp;|&nbsp; ⭐ Power-Ups: DevOps · SRE · AIOps</h3>
 
-### About Me
+<p align="center">
+  <a href="mailto:mamidipalli.si@northeastern.edu"><img src="https://img.shields.io/badge/EMAIL-e52521?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/siva-mamidipalli" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-049cd8?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
-11+ years in DevOps, SRE, and Platform Engineering — building resilient infrastructure, securing CI/CD pipelines, and running 24/7 production systems across banking, retail, and aviation.
+<p align="center">🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫</p>
 
-- 🔭 Currently: Senior DevOps/SRE work + an MPS in Informatics at Northeastern, focused on AI-driven infrastructure intelligence
-- 🌱 Building toward: AIOps, agentic AI for operations, and AI Infrastructure/Platform Architecture
-- 💬 Ask me about: observability, DevSecOps pipelines, cloud migrations, SRE practices
-- 📫 Reach me: **mamidipalli.si@northeastern.edu**
+### 🎮 Player Profile
 
----
+> 11+ years in DevOps, SRE, and Platform Engineering — jumping over infrastructure fires, dodging outages, and collecting uptime coins across banking, retail, and aviation.
 
-### 🛠 Featured Projects
+- 🔭 **Current Quest:** Senior DevOps/SRE work + an MPS in Informatics at Northeastern, building AI-driven infrastructure intelligence
+- ⭐ **Next Power-Up:** AIOps, agentic AI for operations, AI Infrastructure & Platform Architecture
+- 🍄 **Ask me about:** observability, DevSecOps pipelines, cloud migrations, SRE practices
+- 🏁 **Status:** Open to Senior DevOps / SRE / Platform Engineering roles
 
-- 🔮 [**aiops-forecast-dashboard**](https://github.com/smamidipalli009/aiops-forecast-dashboard) — Predictive monitoring with Prometheus + Grafana + Prophet, forecasting resource usage 6–72h ahead
-- 📈 [**app-observability-stack**](https://github.com/smamidipalli009/app-observability-stack) — SLO-based, multi-burn-rate alerting following the Google SRE Workbook pattern
-- 🔐 [**multi-language-appsec-pipeline**](https://github.com/smamidipalli009/multi-language-appsec-pipeline) — SAST + SCA + DAST across 5 languages, with SBOM generation and Security tab integration
-- 🪟 [**windows-observability-stack**](https://github.com/smamidipalli009/windows-observability-stack) — Prometheus + Grafana + Alertmanager monitoring with tested Slack/Email alert routing
+<p align="center">🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫</p>
 
----
+### 🏆 World Select — Featured Levels
 
-### 🧰 Tech Stack
+| World | Project | Description |
+|:---:|---|---|
+| 🔥 1-1 | [**aiops-forecast-dashboard**](https://github.com/smamidipalli009/aiops-forecast-dashboard) | Predictive monitoring with Prometheus + Grafana + Prophet — forecasts resource usage 6–72h ahead |
+| ⭐ 1-2 | [**app-observability-stack**](https://github.com/smamidipalli009/app-observability-stack) | SLO-based, multi-burn-rate alerting following the Google SRE Workbook pattern |
+| 🍄 1-3 | [**multi-language-appsec-pipeline**](https://github.com/smamidipalli009/multi-language-appsec-pipeline) | SAST + SCA + DAST across 5 languages, with SBOM generation and Security tab integration |
+| 🏰 1-4 (Castle) | [**windows-observability-stack**](https://github.com/smamidipalli009/windows-observability-stack) | Prometheus + Grafana + Alertmanager with tested Slack/Email alert routing |
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+<p align="center">🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫</p>
 
----
+### ⭐ Power-Ups (Tech Stack)
 
-<p align="center"><i>Open to Senior DevOps, SRE, and Platform Engineering roles.</i></p>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+<p align="center">🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫</p>
+
+<p align="center"><i>🚩 Thanks for visiting — hit me up, let's build something! 🚩</i></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=049cd8&height=100&section=footer" />
+</p>
