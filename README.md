@@ -33,11 +33,7 @@ other engineers walk across without ever noticing they exist.
 
 <br/>
 
-## 🗺️ WORLD MAP — FEATURED PROJECTS
-
-<p align="center">
-  <img src="assets/worldmap.png" width="100%" alt="project world map" />
-</p>
+## 🏆 FEATURED PROJECTS
 
 <table>
 <tr><td width="60"><b>1-1</b></td><td><a href="https://github.com/smamidipalli009/aiops-forecast-dashboard"><b>aiops-forecast-dashboard</b></a><br/><sub>Prometheus + Grafana + Prophet — forecasts CPU/memory/disk 6–72h ahead, before the fire starts.</sub></td></tr>
