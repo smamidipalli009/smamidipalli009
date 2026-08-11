@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=e52521&height=180&section=header&text=Siva%20Mamidipalli&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20DevOps%20%7C%20SRE%20%7C%20Platform%20Engineer&descAlignY=58&descSize=18" />
 </p>
 
+<p align="center">
+  <img src="assets/hero-jump.gif" width="160" alt="jumping pixel hero" />
+</p>
+
 <h3 align="center">🍄 Player 1 — Level 11+ (Years) &nbsp;|&nbsp; ⭐ Power-Ups: DevOps · SRE · AIOps</h3>
 
 <p align="center">
