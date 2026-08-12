@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="Siva Mamidipalli — Senior DevOps, SRE, Platform Engineer" />
+  <img src="assets/banner.gif" width="100%" alt="Siva Mamidipalli — Senior DevOps, SRE, Platform Engineer" />
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 <table align="center">
 <tr>
-<td width="55%" valign="top">
+<td valign="top">
 
 ## 🎮 PLAYER PROFILE
 
@@ -24,9 +24,6 @@ other engineers walk across without ever noticing they exist.
 - 🚩 **Status:** Open to Senior DevOps / SRE / Platform Engineering roles
 - 📫 **Warp pipe:** mamidipalli.si@northeastern.edu
 
-</td>
-<td width="45%" align="center" valign="middle">
-<img src="assets/hero-run-jump.gif" width="380" alt="pixel hero running and jumping" />
 </td>
 </tr>
 </table>
