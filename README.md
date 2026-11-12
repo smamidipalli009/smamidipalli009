@@ -1,6 +1,6 @@
 # Siva Mamidipalli
 
-**Senior IT Engineer (DevOps, SRE, Systems, Infra)** · 11+ years · Boston, MA
+**Senior IT Engineer (DevOps, SRE, Systems, Infra)** · Boston, MA
 
 > ***Always learning, always open to picking up new tools and technologies and putting them to work.***
 
