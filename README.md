@@ -1,9 +1,10 @@
 # Siva Mamidipalli
 
-**Senior DevOps / SRE / Platform Engineer** · 11+ years · Boston, MA
-[Email](mailto:mamidipalli.si@northeastern.edu) · [LinkedIn](https://www.linkedin.com/in/siva-mamidipalli) · [GitHub](https://github.com/smamidipalli009)
+**Senior IT Engineer (DevOps, SRE, Systems, Infra)** · 11+ years · Boston, MA
 
-I build infrastructure that stays up, scales cleanly, and tells you before it breaks.
+> ***Always learning, always open to picking up new tools and technologies and putting them to work.***
+
+[Email](mailto:mamidipalli.si@northeastern.edu) · [LinkedIn](https://www.linkedin.com/in/siva-mamidipalli) · [GitHub](https://github.com/smamidipalli009)
 
 ---
 
@@ -19,13 +20,16 @@ I build infrastructure that stays up, scales cleanly, and tells you before it br
 ### Infra
 - **[windows-observability-stack](https://github.com/smamidipalli009/windows-observability-stack)**: Windows monitoring with tested Slack and email alerting. *Prometheus, Grafana, Alertmanager*
 
-### Platform
+### Systems
 - *Coming soon*
 
 ---
 
 ## Skills
-**Cloud:** AWS, Azure · **IaC:** Terraform, CloudFormation, Ansible
-**CI/CD:** Jenkins, GitHub Actions, GitLab CI, ArgoCD · **Containers:** Docker, Kubernetes, Helm
-**Observability:** Prometheus, Grafana, OpenTelemetry, ELK, Datadog
-**Security:** PKI, TLS, HashiCorp Vault, Trivy, OPA · **Languages:** Python, Bash, PowerShell
+- **Cloud:** AWS, Azure
+- **IaC:** Terraform, CloudFormation, Ansible
+- **CI/CD:** Jenkins, GitHub Actions, GitLab CI, ArgoCD
+- **Containers:** Docker, Kubernetes, Helm
+- **Observability:** Prometheus, Grafana, OpenTelemetry, ELK, Datadog
+- **Security:** PKI, TLS, HashiCorp Vault, Trivy, OPA
+- **Languages:** Python, Bash, PowerShell
