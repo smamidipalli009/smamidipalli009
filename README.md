@@ -4,7 +4,7 @@
 
 > ***Always learning, always open to picking up new tools and technologies and putting them to work.***
 
-[Email](mailto:mamidipalli.si@northeastern.edu) · [LinkedIn](https://www.linkedin.com/in/siva-mamidipalli) · [GitHub](https://github.com/smamidipalli009)
+**Reach me on:** [Email](mailto:mamidipalli009@gmail.com) · [LinkedIn](https://www.linkedin.com/in/siva-mamidipalli) · [GitHub](https://github.com/smamidipalli009)
 
 ---
 
@@ -32,4 +32,6 @@
 - **Containers:** Docker, Kubernetes, Helm
 - **Observability:** Prometheus, Grafana, OpenTelemetry, ELK, Datadog
 - **Security:** PKI, TLS, HashiCorp Vault, Trivy, OPA
+- **Virtualization:** VMware
+- **OS:** Linux, Windows
 - **Languages:** Python, Bash, PowerShell
