@@ -15,7 +15,7 @@
 - **[app-observability-stack](https://github.com/smamidipalli009/app-observability-stack)**: multi-burn-rate SLO alerting per the Google SRE Workbook. *Prometheus, Grafana, Alertmanager*
 
 ### DevOps
-- **[multi-language-appsec-pipeline](https://github.com/smamidipalli009/multi-language-appsec-pipeline)**: SAST, SCA, and DAST across five languages with SBOM generation. *GitHub Actions*
+- **[multi-language-appsec-pipeline](https://github.com/smamidipalli009/multi-language-appsec-pipeline)**: automated SAST, SCA, and DAST scanning with SBOM generation across 5 languages (Python, Java, JavaScript, Go, C#). *GitHub Actions*
 
 ### Infra
 - **[windows-observability-stack](https://github.com/smamidipalli009/windows-observability-stack)**: Windows monitoring with tested Slack and email alerting. *Prometheus, Grafana, Alertmanager*
