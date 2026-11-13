@@ -12,6 +12,7 @@
 
 ### SRE
 - **[aiops-forecast-dashboard](https://github.com/smamidipalli009/aiops-forecast-dashboard)**: forecasts CPU, memory, and disk 6–72 hours ahead. *Prometheus, Grafana, Prophet*
+- **[ecom-sre-pulse](https://github.com/smamidipalli009/ecom-sre-pulse)**: 4 Golden Signals observability with chaos engineering on 3 microservices. Prometheus, Grafana, Loki, Locust, Alertmanager
 - **[app-observability-stack](https://github.com/smamidipalli009/app-observability-stack)**: multi-burn-rate SLO alerting per the Google SRE Workbook. *Prometheus, Grafana, Alertmanager*
 
 ### DevOps
