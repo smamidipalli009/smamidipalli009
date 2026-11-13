@@ -20,6 +20,7 @@
 
 ### Infra
 - **[windows-observability-stack](https://github.com/smamidipalli009/windows-observability-stack)**: Windows monitoring with tested Slack and email alerting. *Prometheus, Grafana, Alertmanager*
+- **[linux-node-monitor](https://github.com/smamidipalli009/linux-node-monitor)**: Linux host monitoring with CPU, memory, disk, and network dashboards. *Node Exporter, Prometheus, Grafana*
 
 ### Systems
 - *Coming soon*
