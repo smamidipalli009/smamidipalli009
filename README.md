@@ -16,7 +16,7 @@
 - **[app-observability-stack](https://github.com/smamidipalli009/app-observability-stack)**: multi-burn-rate SLO alerting per the Google SRE Workbook. *Prometheus, Grafana, Alertmanager*
 
 ### DevOps
-- **[multi-language-appsec-pipeline](https://github.com/smamidipalli009/multi-language-appsec-pipeline)**: automated SAST, SCA, and DAST scanning with SBOM generation across 5 languages (Python, Java, JavaScript, Go, C#). *GitHub Actions*
+- **[multi-language-appsec-pipeline](https://github.com/smamidipalli009/multi-language-appsec-pipeline)**: automated SAST, SCA, and DAST scanning with SBOM generation across 5 languages (Python, Java, JavaScript, Go, C#). *CodeQL (SAST), Trivy (SCA), OWASP ZAP (DAST), Docker, GHCR, GitHub Actions, SBOM*
 - **[github-repo-observability](https://github.com/smamidipalli009/github-repo-observability)**: monitors any GitHub repository from Grafana. Live repo health via GitHub Datasource, DORA metrics and CI/CD tracking via Python exporter. *Grafana, Prometheus, Python, GitHub REST API*
 
 
