@@ -17,6 +17,8 @@
 
 ### DevOps
 - **[multi-language-appsec-pipeline](https://github.com/smamidipalli009/multi-language-appsec-pipeline)**: automated SAST, SCA, and DAST scanning with SBOM generation across 5 languages (Python, Java, JavaScript, Go, C#). *GitHub Actions*
+- **[github-repo-observability](https://github.com/smamidipalli009/github-repo-observability)**: monitors any GitHub repository from Grafana. Live repo health via GitHub Datasource, DORA metrics and CI/CD tracking via Python exporter. *Grafana, Prometheus, Python, GitHub REST API*
+
 
 ### Infra
 - **[windows-observability-stack](https://github.com/smamidipalli009/windows-observability-stack)**: Windows monitoring with tested Slack and email alerting. *Prometheus, Grafana, Alertmanager*
