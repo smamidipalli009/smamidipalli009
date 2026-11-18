@@ -18,6 +18,7 @@
 ### DevOps
 - **[multi-language-appsec-pipeline](https://github.com/smamidipalli009/multi-language-appsec-pipeline)**: automated SAST, SCA, and DAST scanning with SBOM generation across 5 languages (Python, Java, JavaScript, Go, C#). *CodeQL (SAST), Trivy (SCA), OWASP ZAP (DAST), Docker, GHCR, GitHub Actions, SBOM*
 - **[github-repo-observability](https://github.com/smamidipalli009/github-repo-observability)**: monitors any GitHub repository from Grafana. Live repo health via GitHub Datasource, DORA metrics and CI/CD tracking via Python exporter. *Grafana, Prometheus, Python, GitHub REST API*
+- ****[appsec-scan-dashboard](https://github.com/smamidipalli009/appsec-scan-dashboard)**: visualizes AppSec scan results from GitHub Code Scanning across 5 languages with per-language filtering. Python exporters for CodeQL (SAST), Trivy (SCA), and OWASP ZAP (DAST) push metrics via Pushgateway to Prometheus and Grafana. *Grafana, Prometheus, Pushgateway, Python, GitHub Code Scanning API*
 
 
 ### Infra
